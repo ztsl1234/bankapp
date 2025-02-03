@@ -3,7 +3,7 @@
 
 export BASE_DIR=$(pwd)
 
-echo $BASE_DIR
+#echo $BASE_DIR
 #echo "Running Banking App ..."
 
 python $BASE_DIR/src/app.py 
